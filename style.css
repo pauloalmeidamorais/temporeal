@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color:rgb(208, 234, 255);
+}
+#timer{
+    position: absolute;
+    font-size: 250px;
+    font-weight: 800;
+    font-family:Arial;
+
+    padding-left: 165px;
+    padding-top: 240px;
+}
